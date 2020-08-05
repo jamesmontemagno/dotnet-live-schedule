@@ -6,7 +6,7 @@
     "date": "2020-09-10T08:00:00.000000-07:00",
     "guest": "",
     "length": 10,
-    "thumbnail": "",
+    "thumbnail": "https://raw.githubusercontent.com/jamesmontemagno/dotnet-live-schedule/master/art/dotnet-conf.png",
     "url": "https://www.dotnetconf.net"
   },
    {
@@ -16,7 +16,7 @@
     "date": "2020-09-11T08:00:00.000000-07:00",
     "guest": "",
     "length": 10,
-    "thumbnail": "",
+    "thumbnail": "https://raw.githubusercontent.com/jamesmontemagno/dotnet-live-schedule/master/art/dotnet-conf.png",
     "url": "https://www.dotnetconf.net"
   },
    {
@@ -26,7 +26,7 @@
     "date": "2020-09-12T08:00:00.000000-07:00",
     "guest": "",
     "length": 10,
-    "thumbnail": "",
+    "thumbnail": "https://raw.githubusercontent.com/jamesmontemagno/dotnet-live-schedule/master/art/dotnet-conf.png",
     "url": "https://www.dotnetconf.net"
   }
 ]
