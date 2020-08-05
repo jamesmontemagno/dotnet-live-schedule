@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d20642b3-f194-4b2e-9671-6b2b633bbfbb",
+    "title": ".NET Conf - Day 1",
+    "description": ".NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.",
+    "date": "2020-09-10T08:00:00.000000-07:00",
+    "guest": "",
+    "length": 10,
+    "thumbnail": "",
+    "url": "https://www.dotnetconf.net"
+  },
+   {
+    "id": "c0d99de3-158c-43a6-a2b4-87b24c3a8054",
+    "title": ".NET Conf - Day 2",
+    "description": ".NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.",
+    "date": "2020-09-11T08:00:00.000000-07:00",
+    "guest": "",
+    "length": 10,
+    "thumbnail": "",
+    "url": "https://www.dotnetconf.net"
+  },
+   {
+    "id": "d3b65272-2e11-4be5-bf27-be65f92ffcba",
+    "title": ".NET Conf - Day 3",
+    "description": ".NET Conf is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one.",
+    "date": "2020-09-12T08:00:00.000000-07:00",
+    "guest": "",
+    "length": 10,
+    "thumbnail": "",
+    "url": "https://www.dotnetconf.net"
+  }
+]
