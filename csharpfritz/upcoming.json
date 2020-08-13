@@ -1,12 +1,22 @@
 [
   {
     "id": "3fbbd00d-55e6-4a1a-a87e-dd700733592b",
-    "title": "First episode with Fritz",
-    "description": "This is the description!",
-    "date": "2020-08-17T06:00:00.000000-07:00",
-    "guest": "Jon Galloway (@jongalloway)",
+    "title": "Types, Type Conversion, and C# Language Syntax",
+    "description": "In this first episode of C# with CSharpFritz, Jeff introduces himself and our series of beginner friendly live streams talking about and teaching how to get started with C# and .NET development.  This episode focuses on declaring variables, using types, and converting between those types.",
+    "date": "2020-08-10T06:00:00.000000-07:00",
+    "guest": "",
     "length": 2,
     "thumbnail": "",
-    "url": "https://twitch.tv/VisualStudio"
+    "url": "https://www.youtube.com/watch?v=pyN7JTQM7sU"
+  },
+  {
+    "id": "08d7b8c8-bdca-4ab8-b80a-d33a00851a78",
+    "title": "Making our own Types with Classes, Scope, and Interfaces",
+    "description": "Last week we learned about variables and some of the built-in types in C#.  This week, Fritz takes us through the process of creating our own Types and what we can do with them",
+    "date": "2020-08-17T06:00:00.000000-07:00",
+    "guest": "",
+    "length": 2,
+    "thumbnail": "",
+    "url": "https://www.twitch.tv/VisualStudio"
   }
 ]
