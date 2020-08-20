@@ -18,5 +18,15 @@
     "length": 2,
     "thumbnail": "",
     "url": "https://www.twitch.tv/VisualStudio"
+  },
+  {
+    "id": "f71e9905-5ae2-4650-974a-db9f69a078bf",
+    "title": "Learning to Make Our Own Types with Class - Part 2: Methods, Events, and Delegates",
+    "description": "Are you just starting to learn C#? Maybe you're a professional and want a refresher talk. Tune in to the next C# with CSharpFritz as we discuss creating classes with methods, events, and delegates.  We'll use Jupyter Notebooks and .NET Interactive so that you can work through the samples with Fritz as he teaches in this talk-show formatted session. Community Links: https://www.theurlist.com/csharpfritz_ep3",
+    "date": "2020-08-24T06:00:00.000000-07:00",
+    "guest": "",
+    "length": 2,
+    "thumbnail": "",
+    "url": "https://www.twitch.tv/VisualStudio"
   }
 ]
