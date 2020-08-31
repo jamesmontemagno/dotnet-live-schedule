@@ -7,7 +7,7 @@
     "guest": "",
     "length": 2,
     "thumbnail": "",
-    "url": "https://www.youtube.com/watch?v=pyN7JTQM7sU"
+    "url": "https://www.youtube.com/watch?v=-E2xB4kOSV0&list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R&index=4"
   },
   {
     "id": "08d7b8c8-bdca-4ab8-b80a-d33a00851a78",
@@ -17,13 +17,23 @@
     "guest": "",
     "length": 2,
     "thumbnail": "",
-    "url": "https://www.twitch.tv/VisualStudio"
+    "url": "https://www.youtube.com/watch?v=HWmd5_CAx_c&list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R&index=3"
   },
   {
     "id": "f71e9905-5ae2-4650-974a-db9f69a078bf",
     "title": "Learning to Make Our Own Types with Class - Part 2: Methods, Events, and Delegates",
     "description": "Are you just starting to learn C#? Maybe you're a professional and want a refresher talk. Tune in to the next C# with CSharpFritz as we discuss creating classes with methods, events, and delegates.  We'll use Jupyter Notebooks and .NET Interactive so that you can work through the samples with Fritz as he teaches in this talk-show formatted session. Community Links: https://www.theurlist.com/csharpfritz_ep3",
     "date": "2020-08-24T06:00:00.000000-07:00",
+    "guest": "",
+    "length": 2,
+    "thumbnail": "",
+    "url": "https://www.youtube.com/watch?v=pyN7JTQM7sU&list=PLdo4fOcmZ0oXv32dOd36UydQYLejKR61R&index=2"
+  },
+  {
+    "id": "cd922a39-3b43-43de-820d-c5f37e9fbdeb",
+    "title": "Conditionals and Loops",
+    "description": "Are you just starting to learn C#? Maybe you're a professional and want a refresher talk. Tune in to the next C# with CSharpFritz as we discuss conditionals and loops.  We'll use Jupyter Notebooks and .NET Interactive so that you can work through the samples with Fritz as he teaches in this talk-show formatted session.",
+    "date": "2020-08-31T06:00:00.000000-07:00",
     "guest": "",
     "length": 2,
     "thumbnail": "",
