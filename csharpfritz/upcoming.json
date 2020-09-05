@@ -1,3 +1,13 @@
 [
-  
+  {
+    "id": "1106c5cb-1925-4894-bdcc-22dd084143a2",
+    "title": "A Beginners Guide to Collections and Generics in C#",
+    "description": "Arrays, Lists, Dictionaries... what do these all mean and what do they do in C#?  Jeff Fritz is your guide in this talk-show formatted session giving you interactive demos and answering your questions about how to use collections in C#",
+    "date": "2020-09-14T06:00:00.000000-07:00",
+    "guest": "",
+    "length": 2,
+    "thumbnail": "",
+    "url": "https://www.twitch.tv/VisualStudio",
+    "communityLinks": "https://www.theurlist.com/csharp_with_csharpfritz"
+  },
 ]
