@@ -11,6 +11,7 @@ Template
     "guest": "",
     "length": 2,
     "thumbnail": "",
+    "tags": "",
     "url": "",
     "communityLinks": ""
   },
