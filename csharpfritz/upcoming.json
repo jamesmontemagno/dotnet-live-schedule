@@ -1,13 +1,2 @@
 [
-  {
-    "id": "c8dc6765-cc9d-407a-a491-4930d3d86927",
-    "title": "LINQ and Extension Methods",
-    "description": "In this week's C# with CSharpFritz we're going to learn more about LINQ, LINQ to Objects, and writing our own extension methods.  Tune in for interactive C# samples you can run in your browser with Jupyter Notebooks and .NET interactive!",
-    "date": "2020-09-21T06:00:00.000000-07:00",
-    "guest": "",
-    "length": 2,
-    "thumbnail": "",
-    "url": "https://www.twitch.tv/VisualStudio",
-    "communityLinks": "https://www.theurlist.com/csharp_with_csharpfritz"
-  },
 ]
