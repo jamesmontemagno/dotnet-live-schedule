@@ -26,8 +26,32 @@
  {
     "id": "868c9f26-9339-4cc7-83de-d9dbbea5f45b",
     "title": "C# Corner: Mystery Detective Mod for Stardew Valley!",
-    "description": "Let's continue working our game mod for Stardew Valley!",
+    "description": "Let's work on the dialogue of our game mod for Stardew Valley!",
     "date": "2020-10-13T12:00:00.000000-07:00",
+    "guest": "",
+    "length": 2,
+    "thumbnail": "",
+    "tags": "GameDev,Beginner",
+    "url": "https://www.twitch.tv/VisualStudio",
+    "communityLinks": "https://www.github.com/instafluff"
+  },
+ {
+    "id": "868c9f26-9339-4cc7-83de-d9dbbea5f45b",
+    "title": "C# Corner: Mystery Detective Mod for Stardew Valley!",
+    "description": "Developing our detective game mod for Stardew Valley!",
+    "date": "2020-10-20T12:00:00.000000-07:00",
+    "guest": "",
+    "length": 2,
+    "thumbnail": "",
+    "tags": "GameDev,Beginner",
+    "url": "https://www.twitch.tv/VisualStudio",
+    "communityLinks": "https://www.github.com/instafluff"
+  },
+ {
+    "id": "868c9f26-9339-4cc7-83de-d9dbbea5f45b",
+    "title": "C# Corner: Mystery Detective Mod for Stardew Valley!",
+    "description": "Developing our detective game mod for Stardew Valley!",
+    "date": "2020-10-27T12:00:00.000000-07:00",
     "guest": "",
     "length": 2,
     "thumbnail": "",
